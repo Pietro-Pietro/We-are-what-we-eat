@@ -1,0 +1,6 @@
+    "cibo", "culinaria", "culinario", "farina", "nutriscore", 
+    "gastronomia", "mangiare", "dieta", "mediterranea", "prodotti", 
+    "tipici", "locali", "ristorante", "mangio", "cucina", "ricette", 
+    "pasta", "pizza", "prosciutto", "formaggi", "salumi", "olio", 
+    "vino", "mangiamo", "gastronomico", "sapori", "gusto", "tradizione"
+
